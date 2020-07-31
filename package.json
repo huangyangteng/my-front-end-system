@@ -1,0 +1,23 @@
+{
+  "name": "my-front-end-system",
+  "version": "1.0.0",
+  "description": "我的前端知识体系",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangyangteng/my-front-end-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangyangteng/my-front-end-system/issues"
+  },
+  "homepage": "https://github.com/huangyangteng/my-front-end-system#readme"
+}
